@@ -28,7 +28,6 @@ By contributing to this project, you adhere to this project's code of conduct. T
 - The code you contribute you must be your own.
 - Your code must be error and bug free.
 - File structure must be proper. You must write the code for a particular language in that particular folder. For example, write Java code in the `Java` folder and Python code in `Python` folder, etc.
-- Inside a folder, write the program in a subfolder for that particular topic. For example, write Array programs in `Array` folder, Linked List programs in `LinkedList` folder, etc.
 - Make sure you exclude the auto-generated files by adding them in `.gitignore`.
 - Do **not** spam.
 
